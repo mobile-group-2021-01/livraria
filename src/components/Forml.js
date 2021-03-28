@@ -1,4 +1,5 @@
-import {View, Text, TextInput} from 'react-native'
+import React from 'react'
+import {View, Text, TextInput, StyleSheet} from 'react-native'
 
 
 const Forml = ({ nameField, isNumeric, event }) => {
